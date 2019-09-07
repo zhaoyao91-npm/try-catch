@@ -1,5 +1,5 @@
 {
-  "name": "try-catch",
+  "name": "@zhaoyao91/try-catch",
   "version": "0.0.0",
   "description": "Return result and error instead of throwing.",
   "main": "index.js",
