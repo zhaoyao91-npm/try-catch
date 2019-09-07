@@ -1,0 +1,23 @@
+{
+  "name": "try-catch",
+  "version": "0.0.0",
+  "description": "Return result and error instead of throwing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "try",
+    "catch",
+    "try-catch"
+  ],
+  "author": {
+    "name": "zhaoyao91",
+    "email": "zhaoyao91@aliyun.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0"
+  }
+}
